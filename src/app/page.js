@@ -27,7 +27,7 @@ export default function Home() {
         <div className="max-w-[1800px] mx-auto flex justify-between items-center">
           <div>
             <h1 className="text-base md:text-2xl font-black tracking-tighter text-white uppercase">
-              Malla Interactiva <span className="text-cyan-400">Enfermería</span>
+              Enfermería<span className="text-cyan-400"> UDP</span>
             </h1>
             <p className="text-[9px] font-bold text-slate-500 tracking-widest uppercase mt-1">@miguelesss</p>
           </div>
