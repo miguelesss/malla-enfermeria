@@ -21,7 +21,7 @@
   { "id": "CUENF2", "nombre": "Cuidados de Enfermería II", "semestre": 4, "creditos": 5, "prerrequisitos": [] },
   { "id": "SMEN", "nombre": "Enfermería en Salud Mental", "semestre": 4, "creditos": 5, "prerrequisitos": [] },
   { "id": "BIOEST", "nombre": "Bioestadística", "semestre": 4, "creditos": 5, "prerrequisitos": [] },
-  { "id": "CFG2", "nombre": "Curso de Formación General", "semestre": 4, "creditos": 5, "prerrequisitos": [] },
+  { "id": "CFG2", "nombre": "Curso de Formación General", "semestre": 5, "creditos": 5, "prerrequisitos": [] },
   { "id": "GEST_ADU", "nombre": "Gestión del Cuidado en la Persona Adulta en el Área Hospitalaria", "semestre": 5, "creditos": 5, "prerrequisitos": [] },
   { "id": "ENF_PSIQ", "nombre": "Enfermería en Psiquiatría", "semestre": 5, "creditos": 5, "prerrequisitos": [] },
   { "id": "BIOET", "nombre": "Bioética y Legislación en Enfermería", "semestre": 5, "creditos": 5, "prerrequisitos": [] },
